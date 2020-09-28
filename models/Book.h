@@ -13,7 +13,7 @@ public:
 	char* GetIsbn();
 	void SetIsbn(char* cIsbn);
 	char* GetPrice();
-	void SetPrice();
+	void SetPrice(char* cPrice);
 	char* GetAuthor();
 	void SetAuthor(char* cAuthor);
 	void writeData();
